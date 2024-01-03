@@ -89,8 +89,6 @@ def modal() -> rx.Component:
                                     max_width="100%",
                                     on_change=State.set_category,
                                     width="13vw", #TODO make this responsive
-                                    # max_width="50%",
-                                    # size="sm",
                                 ),
                             ),
                             rx.vstack(
@@ -102,7 +100,6 @@ def modal() -> rx.Component:
                                     on_change=State.set_priority,
                                     max_width="100%",
                                     width="13vw", #TODO make this responsive
-                                    # size="sm",
                                 ),
                             ),
                             flex="1",
@@ -130,14 +127,12 @@ def modal() -> rx.Component:
                 rx.modal_footer(
                     rx.button(
                         "Close",
-                        # bg="#5535d4",
                         box_shadow="md",
                         px="4",
                         py="2",
                         h="auto",
                         margin_right="0.5em",
                         color_scheme="blackAlpha",
-                        # _hover={"bg": "#4c2db3"},
                         on_click=State.toggle_modal,
                     ),
                     rx.button(
