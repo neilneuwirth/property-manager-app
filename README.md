@@ -98,7 +98,7 @@
 </a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <a href="https://app.uizard.io/p/2fbdb25b">
-<img src="./docs/landlord_mockup.png" alt="icon"/>
+<img src="./docs/landlord_mockup_light.png" alt="icon"/>
 </a>
 
 <!-- GETTING STARTED -->
