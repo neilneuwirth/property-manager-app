@@ -16,10 +16,14 @@ def navbar():
                 ),
                 rx.link(
                     rx.box(
-                        rx.image(src="maintenance.png", width=35, height="auto"),
+                        rx.image(
+                            src="maintenance.svg",
+                            width=35,
+                            height="auto",
+                        ),
                         p="1",
                         border_radius="6",
-                        bg="#F0F0F0",
+                        bg="#5834d4",
                         mr="2",
                     ),
                     href="/",

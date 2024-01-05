@@ -101,10 +101,10 @@ def action_bar() -> rx.Component:
                 rx.form_control(
                     rx.hstack(
                         # rx.upload(
-                        #     rx.button(
-                        #         rx.icon(tag="attachment"),
-                        #         style=styles.upload_button,
-                        #     ),
+                            rx.button(
+                                rx.icon(tag="attachment"),
+                                style=styles.upload_button,
+                            ),
                         #     id="file_upload",
                         #     multiple=True,
                         # accept={

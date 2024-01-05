@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "webui"
+version = "0.1.0"
+description = ""
+authors = ["neilneuwirth <neil.neuwirth15@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+reflex = "^0.3.7"
+openai = "^1.6.1"
+pandas = "^2.1.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
