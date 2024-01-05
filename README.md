@@ -93,10 +93,13 @@
 
 ## Property Manager Dashboard Sneak Peek 
 <!-- PROPERTY MANAGER PREVIEW -->
-<a href="https://app.uizard.io/p/d2e04da3">
-<img src="./docs/landlord_mockup.png" alt="icon"/>
+<a href="https://app.uizard.io/p/fd4303f3">
+<img src="./docs/landlord_mockup_dark.png" alt="icon"/>
 </a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<a href="https://app.uizard.io/p/2fbdb25b">
+<img src="./docs/landlord_mockup.png" alt="icon"/>
+</a>
 
 <!-- GETTING STARTED -->
 
