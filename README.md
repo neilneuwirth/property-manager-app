@@ -82,15 +82,15 @@ Oikos is a property management software solution to streamline maintenance execu
 
 ### Upcoming Features
 
-- [ ] **Deploy Services**: Deploy application and API services to AWS services staging account.
-- [ ] **Property Manager Portal**: A dashboard for property managers to oversee maintenance request and analytics.
+- [ ] **Deploy Services**: Deploy the application and API services to AWS services staging account.
+- [ ] **Property Manager Portal**: A dashboard for property managers to oversee maintenance requests and analytics.
 - [ ] **Yardi Integration**: Integration with Yardi systems.
 - [ ] **Twilio Integration for Vendor/Maintenance Dispatching**: Utilize Twilio services for efficient communication with vendors and maintenance staff.
 - [ ] **Appfolio Integration**: Integration with Appfolio.
 
-### Future Enhancments
+### Future Enhancements
 
-- [ ] **Tenant Portal Features**: Add features for tenants to view live progress of work orders, provide a review, and view historical requests.
+- [ ] **Tenant Portal Features**: Add features for tenants to view the live progress of work orders, provide a review, and view historical requests.
 - [ ] **Vendor Portal**: A portal for vendors to receive work orders, submit invoices, and communicate with property managers.
 
 ### Long-term vision
