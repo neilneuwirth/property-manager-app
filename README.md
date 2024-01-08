@@ -12,7 +12,7 @@
   <h2 align="center">Oikos - Property Management Application</h2>
 
   <p align="center">
-    A property managment application to facilitate maintenance requests / work order management.
+    A property management application to facilitate maintenance requests / work order management.
     <br />
     <a href="https://github.com/neilneuwirth/property-manager"><strong>Explore the module »</strong></a>
     <a href="https://github.com/neilneuwirth/property-manager-api"><strong>Explore the API »</strong></a>
@@ -49,14 +49,22 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
+
+Oikos is a property management software solution to streamline maintenance execution for tenants, managers, and vendors. With its intelligent automation platform and analytics engine, it creates efficiencies in the property management ecosystem.
+
+<img src="./docs/process_chart.png" alt="icon" style="height: 150px;"/><br>
+
 #### Oikos Assistant: A Conversational AI Agent for Facilitating Maintenance Support and Requests
-<img src="./docs/demo.gif" alt="icon"/><br>
 
-**Multilingual Support**: Multilingual support for bridging communication gaps among stakerholders
-<img src="./docs/spanish_demo.gif" alt="icon"/><br>
+<img src="./docs/demo.gif" alt="icon" style="height: 350px;"/><br>
 
-**Business Data Integration**: Enhanced with business data to empower tenants for self-service and better requirements gathering
-<img src="./docs/context_demo.gif" alt="icon"/>
+**Multilingual Support**: Multilingual support for bridging communication gaps among stakeholders
+
+<img src="./docs/spanish_demo.gif" alt="icon" style="height: 350px;"/><br>
+
+**Business Data Integration**: Enhanced with business data, this feature empowers tenants for self-service and improves requirements gathering
+
+<img src="./docs/context_demo.gif" alt="icon" style="height: 350px;"/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,25 +81,28 @@
 - [x] **Buildium Integration**: Integration with Buildium property management software.
 
 ### Upcoming Features
-- [ ] **Deploy Services**: Deploy application and API services to AWS services staging account. 
-- [ ] **Property Manager Portal**: A dashboard for property managers to oversee maintenance request and analytics. 
+
+- [ ] **Deploy Services**: Deploy application and API services to AWS services staging account.
+- [ ] **Property Manager Portal**: A dashboard for property managers to oversee maintenance request and analytics.
 - [ ] **Yardi Integration**: Integration with Yardi systems.
-- [ ] **Twilio Integration for Vendor/Maintenance Dispatching**: Utilize Twilio services for efficient communication with vendors and maintenance staff. 
+- [ ] **Twilio Integration for Vendor/Maintenance Dispatching**: Utilize Twilio services for efficient communication with vendors and maintenance staff.
 - [ ] **Appfolio Integration**: Integration with Appfolio.
 
 ### Future Enhancments
-- [ ] **Tenant Portal Features**: Add features for tenants to view live progress of work orders, provide a review, and view historical requests. 
+
+- [ ] **Tenant Portal Features**: Add features for tenants to view live progress of work orders, provide a review, and view historical requests.
 - [ ] **Vendor Portal**: A portal for vendors to receive work orders, submit invoices, and communicate with property managers.
 
 ### Long-term vision
+
 - [ ] **Marketplace**
 - [ ] **Below-the-line prescriptive analytics and reporting**
 - [ ] **Work order cost projections**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Property Manager Dashboard Sneak Peek
 
-## Property Manager Dashboard Sneak Peek 
 <!-- PROPERTY MANAGER PREVIEW -->
 <a href="https://app.uizard.io/p/fd4303f3">
 <img src="./docs/landlord_mockup_dark.png" alt="icon"/>
@@ -177,8 +188,6 @@ This project is built on top of the [Property Manager API](https://github.com/ne
   - 🐱 GitHub: [@neilneuwirth](https://github.com/neilneuwirth)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
